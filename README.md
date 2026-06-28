@@ -1,4 +1,4 @@
-#  Minecraft AI Project ⛏️
+#  Minecraft AI Project 
 
 Welcome to my Minecraft AI project!
 
