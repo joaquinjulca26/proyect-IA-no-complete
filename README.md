@@ -1,10 +1,10 @@
-# 🤖 Minecraft AI Project ⛏️
+#  Minecraft AI Project ⛏️
 
 Welcome to my Minecraft AI project!
 
 This project explores the integration of Artificial Intelligence with Minecraft, creating smarter interactions, automation, and new experiences inside the game world.
 
-## 🚀 Project Goals
+##  Project Goals
 
 - Create AI assistants for Minecraft
 - Develop intelligent NPC interactions
